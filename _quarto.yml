@@ -4,14 +4,12 @@ project:
 website:
   title: "Blog"
   description: "Description."
-  site-url: https://github.com/
+  site-url: https://clau-lopez.github.io
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/clau-lopez
 
 format:
   html:
