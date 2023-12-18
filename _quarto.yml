@@ -19,7 +19,9 @@ website:
       align: left
       contents:
         - section: "Software Engineering"
-          contents: "posts/software_engineering/*"
+          contents: 
+          - "posts/software_engineering/testing.qmd"
+          - "posts/software_engineering/coaching.qmd"
 
 format:
   html:
