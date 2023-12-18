@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://clau-lopez.github.io/blog/about.html</loc>
-    <lastmod>2023-12-18T22:48:06.656Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clau-lopez.github.io/blog/index_blog.html</loc>
-    <lastmod>2023-12-18T22:48:01.753Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clau-lopez.github.io/blog/posts/software_engineering/coaching.html</loc>
-    <lastmod>2023-12-18T22:47:56.659Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clau-lopez.github.io/blog/posts/software_engineering/testing.html</loc>
-    <lastmod>2023-12-18T22:47:54.581Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clau-lopez.github.io/blog/posts/post-with-code/index.html</loc>
-    <lastmod>2023-12-18T22:47:59.027Z</lastmod>
+    <loc>https://clau-lopez.github.io/blog/articles.html</loc>
+    <lastmod>2023-12-18T22:53:51.851Z</lastmod>
   </url>
   <url>
     <loc>https://clau-lopez.github.io/blog/index.html</loc>
-    <lastmod>2023-12-18T22:48:04.199Z</lastmod>
+    <lastmod>2023-12-18T22:53:46.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clau-lopez.github.io/blog/posts/software_engineering/coaching.html</loc>
+    <lastmod>2023-12-18T22:53:42.053Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clau-lopez.github.io/blog/posts/software_engineering/testing.html</loc>
+    <lastmod>2023-12-18T22:53:40.081Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clau-lopez.github.io/blog/posts/post-with-code/index.html</loc>
+    <lastmod>2023-12-18T22:53:44.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clau-lopez.github.io/blog/about.html</loc>
+    <lastmod>2023-12-18T22:53:49.090Z</lastmod>
   </url>
 </urlset>
