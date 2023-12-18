@@ -14,9 +14,7 @@ website:
     left:
       - text: "Articles"
         file: articles.qmd
-      - text: "{{< fa address-card >}} About"
-        file: about.qmd
-
+        
   sidebar:
     - id: articles
       title: "Articles"
