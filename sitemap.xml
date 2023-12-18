@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://clau-lopez.github.io/blog/about.html</loc>
-    <lastmod>2023-12-18T22:30:38.960Z</lastmod>
+    <lastmod>2023-12-18T22:41:27.205Z</lastmod>
   </url>
   <url>
     <loc>https://clau-lopez.github.io/blog/index_blog.html</loc>
-    <lastmod>2023-12-18T22:30:34.397Z</lastmod>
+    <lastmod>2023-12-18T22:41:22.536Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clau-lopez.github.io/blog/posts/software_engineering/testing.html</loc>
+    <lastmod>2023-12-18T22:41:18.046Z</lastmod>
   </url>
   <url>
     <loc>https://clau-lopez.github.io/blog/posts/post-with-code/index.html</loc>
-    <lastmod>2023-12-18T22:30:32.221Z</lastmod>
+    <lastmod>2023-12-18T22:41:20.315Z</lastmod>
   </url>
   <url>
     <loc>https://clau-lopez.github.io/blog/index.html</loc>
-    <lastmod>2023-12-18T22:30:36.449Z</lastmod>
+    <lastmod>2023-12-18T22:41:24.742Z</lastmod>
   </url>
 </urlset>
