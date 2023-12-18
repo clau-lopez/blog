@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://clau-lopez.github.io/blog/about.html</loc>
-    <lastmod>2023-12-18T22:41:27.205Z</lastmod>
+    <lastmod>2023-12-18T22:46:20.898Z</lastmod>
   </url>
   <url>
     <loc>https://clau-lopez.github.io/blog/index_blog.html</loc>
-    <lastmod>2023-12-18T22:41:22.536Z</lastmod>
+    <lastmod>2023-12-18T22:46:16.466Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clau-lopez.github.io/blog/posts/software_engineering/coaching.html</loc>
+    <lastmod>2023-12-18T22:46:10.478Z</lastmod>
   </url>
   <url>
     <loc>https://clau-lopez.github.io/blog/posts/software_engineering/testing.html</loc>
-    <lastmod>2023-12-18T22:41:18.046Z</lastmod>
+    <lastmod>2023-12-18T22:46:08.151Z</lastmod>
   </url>
   <url>
     <loc>https://clau-lopez.github.io/blog/posts/post-with-code/index.html</loc>
-    <lastmod>2023-12-18T22:41:20.315Z</lastmod>
+    <lastmod>2023-12-18T22:46:13.721Z</lastmod>
   </url>
   <url>
     <loc>https://clau-lopez.github.io/blog/index.html</loc>
-    <lastmod>2023-12-18T22:41:24.742Z</lastmod>
+    <lastmod>2023-12-18T22:46:18.455Z</lastmod>
   </url>
 </urlset>
