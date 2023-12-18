@@ -11,8 +11,19 @@ website:
       - icon: github
         href: https://github.com/clau-lopez
 
+  sidebar:
+    - id: articles
+      title: "Articles"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - section: "**Software Engineering**"
+          contents: "posts/software_engineering/*"
+
 format:
   html:
+    page-layout: article
     theme: cosmo
     css: styles.css
     toc: true
@@ -24,7 +35,6 @@ format:
     code-block-background: true
     link-external-newwindow: true
     embed-resources: true
-
 
 
 
