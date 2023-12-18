@@ -4,7 +4,7 @@ project:
 website:
   title: "Blog"
   description: "Description."
-  site-url: https://clau-lopez.github.io
+  site-url: https://clau-lopez.github.io/blog
   navbar:
     right:
       - about.qmd
