@@ -12,12 +12,6 @@ website:
       - icon: github
         href: https://github.com/clau-lopez
 
-    left:
-      - text: "Articles"
-        file: articles.qmd
-      - text: "About"
-        file: about.qmd
-
   sidebar:
     - id: articles
       title: "Articles"
