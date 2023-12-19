@@ -15,18 +15,18 @@ website:
       - icon: github
         href: https://github.com/clau-lopez
     left: 
-      - text: Articles
+      - text: "**Articles**"
         file: articles.qmd
 
   sidebar:
     - id: articles
-      title: "Articles"
+      title: "**Articles**"
       style: "floating"
       search: true
       collapse-level: 2
       align: left
       contents:
-        - section: "Software Engineering"
+        - section: "**Software Engineering**"
           contents: 
           - "posts/software_engineering/testing.qmd"
           - "posts/software_engineering/coaching.qmd"

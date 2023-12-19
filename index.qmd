@@ -13,7 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/clau-lopez
+from: markdown+emoji
 ---
+
 
 
  :dizzy: **Hi there!** I am Claudia López, a Senior Data Engineer with a degree in Computer Science. I possess strong experience in Software Engineering and I am committed to continuous learning and staying up-to-date.
