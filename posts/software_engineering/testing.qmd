@@ -4,7 +4,7 @@ author: "Claudia López"
 date: "2023-12-18"
 categories: [data science, data engineering]
 image: "pandas.png"
-permalink: /gnnbook/
+permalink: /articles/
 ---
 
 This is the article
