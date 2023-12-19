@@ -11,6 +11,9 @@ website:
     right:
       - icon: github
         href: https://github.com/clau-lopez
+    left: 
+      - text: Articles
+        file: articles.qmd
 
   sidebar:
     - id: articles
