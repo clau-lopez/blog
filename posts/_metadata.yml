@@ -6,3 +6,5 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: true
+title-slide-attributes: 
+  data-background-image: "posts/software_engineering/coaching.qmd"
