@@ -5,6 +5,9 @@ website:
   title: "**Claudia's Blog**"
   description: "Description."
   site-url: https://clau-lopez.github.io/blog
+  open-graph: true
+  page-footer: "{{< fa regular copyright >}} Copyright 2023, Claudia López" 
+
   navbar:
     background: "#6272a4"
     search: true
