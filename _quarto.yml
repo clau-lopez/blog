@@ -6,7 +6,7 @@ website:
   description: "Description."
   site-url: https://clau-lopez.github.io/blog
   navbar:
-    background: primary
+    background: "#e89be0"
     search: true
     right:
       - icon: github
