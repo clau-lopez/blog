@@ -6,19 +6,23 @@ website:
   description: "Description."
   site-url: https://clau-lopez.github.io/blog
   navbar:
+    background: primary
+    search: true
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/clau-lopez
 
     left:
       - text: "Articles"
         file: articles.qmd
+      - text: "About"
+        file: about.qmd
 
   sidebar:
     - id: articles
       title: "Articles"
       style: "floating"
+      search: true
       collapse-level: 2
       align: left
       contents:
