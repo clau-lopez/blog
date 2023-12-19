@@ -1,9 +1,9 @@
 ---
-title: "Testing"
+title: "Optimizing Pandas"
 author: "Claudia López"
 date: "2023-12-18"
-categories: [testing, software engineering]
-image: "image.jpg"
+categories: [data science, data engineering]
+image: "pandas.jpg"
 ---
 
 This is the article

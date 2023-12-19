@@ -14,7 +14,6 @@ about:
       href: https://github.com/clau-lopez
 ---
 
-
  **Hi there!** I am Claudia López, a Senior Data Engineer with a degree in Computer Science. I possess strong experience in Software Engineering and I am committed to continuous learning and staying up-to-date.
 
 I created this blog to share my knowledge, findings and experiences about Software Engineering, Data Engineering, Machine Learning, and other interesting aspects of my professional journey.
