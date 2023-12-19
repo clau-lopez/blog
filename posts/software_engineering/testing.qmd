@@ -1,2 +1,9 @@
-# Testing
-This article is to talk about testing...
+---
+title: "Testing"
+author: "Claudia López"
+date: "2023-12-18"
+categories: [testing, software engineering]
+image: "image.jpg"
+---
+
+This is the article

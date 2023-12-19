@@ -1,1 +1,9 @@
-# Coachig
+---
+title: "Coaching"
+author: "Claudia López"
+date: "2023-12-18"
+categories: [coaching, onboarding]
+image: "image.jpg"
+---
+
+This is the article
