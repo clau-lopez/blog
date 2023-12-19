@@ -11,4 +11,5 @@ listing:
   fields: [image, title, subtitle, colab, date, reading-time, categories, author,file-modified, description]
 page-layout: full
 title-block-banner: true
+title-block-banner-color: "#d3ccfc"
 ---
