@@ -4,7 +4,7 @@
     "href": "articles.html",
     "title": "Articles",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nOptimizing Pandas\n\n\n\n\n\n\n\ndata science\n\n\ndata engineering\n\n\n \n\n\n\n\nDec 18, 2023\n\n\nClaudia López\n\n\n1 min\n\n\n12/19/23, 4:23:09 PM\n\n\n\n\n\n\n  \n\n\n\n\nCoaching\n\n\n\n\n\n\n\ncoaching\n\n\nonboarding\n\n\n \n\n\n\n\nDec 18, 2023\n\n\nClaudia López\n\n\n1 min\n\n\n12/19/23, 4:52:57 PM\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n \n\n\n\n\nDec 17, 2023\n\n\nHarlow Malloc\n\n\n1 min\n\n\n12/18/23, 5:28:10 PM\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nOptimizing Pandas\n\n\n\n\n\n\n\ndata science\n\n\ndata engineering\n\n\n \n\n\n\n\nDec 18, 2023\n\n\nClaudia López\n\n\n1 min\n\n\n\n\n\n\n  \n\n\n\n\nCoaching\n\n\n\n\n\n\n\ncoaching\n\n\nonboarding\n\n\n \n\n\n\n\nDec 18, 2023\n\n\nClaudia López\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -14,13 +14,6 @@
     "text": "Hi there! I am Claudia López, a Senior Data Engineer with a degree in Computer Science. I possess strong experience in Software Engineering and I am committed to continuous learning and staying up-to-date.\nI created this blog to share my knowledge, findings and experiences about Software Engineering, Data Engineering, Machine Learning, and other interesting aspects of my professional journey."
   },
   {
-    "objectID": "posts/software_engineering/coaching.html",
-    "href": "posts/software_engineering/coaching.html",
-    "title": "Coaching",
-    "section": "",
-    "text": "This is the article"
-  },
-  {
     "objectID": "posts/software_engineering/testing.html",
     "href": "posts/software_engineering/testing.html",
     "title": "Optimizing Pandas",
@@ -28,11 +21,11 @@
     "text": "This is the article"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/software_engineering/coaching.html",
+    "href": "posts/software_engineering/coaching.html",
+    "title": "Coaching",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "This is the article"
   },
   {
     "objectID": "about.html",
