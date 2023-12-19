@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Blog"
+  title: "Claudia's Blog"
   description: "Description."
   site-url: https://clau-lopez.github.io/blog
   navbar:
@@ -14,7 +14,7 @@ website:
     left:
       - text: "Articles"
         file: articles.qmd
-        
+
   sidebar:
     - id: articles
       title: "Articles"
