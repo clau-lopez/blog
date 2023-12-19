@@ -3,7 +3,7 @@ title: "Optimizing Pandas"
 author: "Claudia López"
 date: "2023-12-18"
 categories: [data science, data engineering]
-image: "pandas.jpg"
+image: "posts/software_engineering/pandas.jpg"
 ---
 
 This is the article
