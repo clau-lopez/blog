@@ -17,6 +17,7 @@ website:
       title: "Articles"
       style: "floating"
       search: true
+      background: primary
       collapse-level: 2
       align: left
       contents:

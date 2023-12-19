@@ -3,6 +3,7 @@ title: "Claudia López"
 image: images/profile.jpeg
 title-block-style: none
 sidebar: true
+navbar: true
 about:
   template: jolla
   links:
