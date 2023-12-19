@@ -8,8 +8,9 @@ listing:
   feed: true
   sort-ui: [title, date]
   filter-ui: false
-  fields: [image, title, subtitle, colab, date, reading-time, categories, author,file-modified]
+  fields: [image, title, subtitle, colab, date, reading-time, categories, author]
 page-layout: full
 title-block-banner: true
 title-block-banner-color: "#d3ccfc" 
+backgroundcolor: "#d3ccfc" 
 ---
