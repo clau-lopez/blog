@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://clau-lopez.github.io/blog/articles.html</loc>
-    <lastmod>2023-12-19T22:59:48.177Z</lastmod>
+    <lastmod>2023-12-29T00:01:24.852Z</lastmod>
   </url>
   <url>
     <loc>https://clau-lopez.github.io/blog/index.html</loc>
-    <lastmod>2023-12-19T22:59:42.395Z</lastmod>
+    <lastmod>2023-12-29T00:01:19.374Z</lastmod>
   </url>
   <url>
-    <loc>https://clau-lopez.github.io/blog/posts/software_engineering/testing.html</loc>
-    <lastmod>2023-12-19T22:59:36.948Z</lastmod>
+    <loc>https://clau-lopez.github.io/blog/posts/data_engineering/Optimizing_Pandas_DataFrames.html</loc>
+    <lastmod>2023-12-29T00:01:12.920Z</lastmod>
   </url>
   <url>
     <loc>https://clau-lopez.github.io/blog/posts/software_engineering/coaching.html</loc>
-    <lastmod>2023-12-19T22:59:39.451Z</lastmod>
+    <lastmod>2023-12-29T00:01:08.743Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clau-lopez.github.io/blog/posts/data_engineering/optimizing_pandas.html</loc>
+    <lastmod>2023-12-29T00:01:16.217Z</lastmod>
   </url>
   <url>
     <loc>https://clau-lopez.github.io/blog/about.html</loc>
-    <lastmod>2023-12-19T22:59:44.733Z</lastmod>
+    <lastmod>2023-12-29T00:01:21.679Z</lastmod>
   </url>
 </urlset>
