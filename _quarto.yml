@@ -28,7 +28,9 @@ website:
       contents:
         - section: "**Data Engineering**"
           contents: 
-          - "posts/data_engineering/Optimizing_Pandas_DataFrames.html"
+            - text: Optimizing_Pandas_DataFrames
+              href: "posts/data_engineering/Optimizing_Pandas_DataFrames.html"
+            
 
         - section: "**Software Engineering**"
           contents: 
