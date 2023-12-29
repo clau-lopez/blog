@@ -4,7 +4,7 @@
     "href": "articles.html",
     "title": "Articles",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nOptimizing Pandas\n\n\n\n\n\n\n\ndata science\n\n\ndata engineering\n\n\n \n\n\n\n\nDec 28, 2023\n\n\nClaudia López\n\n\n1 min\n\n\n\n\n\n\n  \n\n\n\n\nCoaching\n\n\n\n\n\n\n\ncoaching\n\n\nonboarding\n\n\n \n\n\n\n\nDec 18, 2023\n\n\nClaudia López\n\n\n1 min\n\n\n\n\n\n\n  \n\n\n\n\nOptimizing Pandas DataFrames\n\n\nFilter first!\n\n\n\n\ndata science\n\n\ndata engineering\n\n\n \n\n\n\n\nDec 28, 2022\n\n\n5 min\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nCoaching\n\n\n\n\n\n\n\ncoaching\n\n\nonboarding\n\n\n \n\n\n\n\nDec 18, 2023\n\n\nClaudia López\n\n\n1 min\n\n\n\n\n\n\n  \n\n\n\n\nOptimizing Pandas DataFrames\n\n\nFilter first!\n\n\n\n\ndata science\n\n\ndata engineering\n\n\n \n\n\n\n\nDec 28, 2022\n\n\n5 min\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -12,6 +12,13 @@
     "title": "Claudia López",
     "section": "",
     "text": "💫 Hi there! I am Claudia López, a Senior Data Engineer with a degree in Computer Science. I possess strong experience in Software Engineering and I am committed to continuous learning and staying up-to-date.\nI created this blog to share my knowledge, findings and experiences about Software Engineering, Data Engineering, Machine Learning, and other interesting aspects of my professional journey."
+  },
+  {
+    "objectID": "posts/software_engineering/coaching.html",
+    "href": "posts/software_engineering/coaching.html",
+    "title": "Coaching",
+    "section": "",
+    "text": "This is the article"
   },
   {
     "objectID": "posts/data_engineering/Optimizing_Pandas_DataFrames.html",
@@ -47,20 +54,6 @@
     "title": "Optimizing Pandas DataFrames",
     "section": "",
     "text": "✅ Filter steps should be executed as early as possible.\n✅ Filter for a single value, .at is a good choice.\n✅ The method [] is faster for smaller arrays.\n✅ Verify the memory usage with memory_usage method\n✅ Downgrade the datatype reviewing el max and min value of a column and choose which is the correct data type for a specific column.\n✅ Using an index in dataframes to allow for faster lookup.\n❌ Try to avoid for loops, but if you can’t avoid them, use .map()."
-  },
-  {
-    "objectID": "posts/software_engineering/coaching.html",
-    "href": "posts/software_engineering/coaching.html",
-    "title": "Coaching",
-    "section": "",
-    "text": "This is the article"
-  },
-  {
-    "objectID": "posts/data_engineering/optimizing_pandas.html",
-    "href": "posts/data_engineering/optimizing_pandas.html",
-    "title": "Optimizing Pandas",
-    "section": "",
-    "text": "This is the article"
   },
   {
     "objectID": "about.html",
