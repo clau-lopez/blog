@@ -28,7 +28,7 @@ website:
       contents:
         - section: "**Software Engineering**"
           contents: 
-          - "posts/software_engineering/testing.qmd"
+          - "posts/data_engineering/optimizing_pandas.qmd"
           - "posts/software_engineering/coaching.qmd"
 
 format:
