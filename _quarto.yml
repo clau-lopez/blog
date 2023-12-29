@@ -26,9 +26,12 @@ website:
       collapse-level: 2
       align: left
       contents:
-        - section: "**Software Engineering**"
+        - section: "**Data Engineering**"
           contents: 
           - "posts/data_engineering/optimizing_pandas.qmd"
+
+        - section: "**Software Engineering**"
+          contents: 
           - "posts/software_engineering/coaching.qmd"
 
 format:
